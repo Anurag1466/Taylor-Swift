@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../java programming"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true,
+		"liveServer.settings.multiRootWorkspaceName": "javascript"
+	}
+}
